@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "vi",
+      "name": "vitoria"
+    },
+    {
+      "id": "gus",
+      "name": "gustavo"
+    },
+    {
+      "id": "nai",
+      "name": "naiara"
+    },
+    {
+      "id": "NudWZSaBjF4",
+      "name": "naiara"
+    },
+    {
+      "id": "Xg4i9LGA9h0",
+      "name": "Emanuel"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
